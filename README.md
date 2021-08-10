@@ -6,4 +6,5 @@
 | 2  | Password Generator  | Range, Loop  |
 | 3  | Calculator |   |
 | 4  | Hangman game  |   |
-| 5  | Quiz game  |   |
+| 5  | BlackJack  |   |
+| 6  | Quiz game  |   |
